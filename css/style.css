@@ -54,7 +54,7 @@ header nav ul li:hover{
     border-bottom: none;
 }
 header nav ul li a{
-    text-decoration: none;
+    text-decoration: none !important;
     color: white;
     font-size: 16px;
     font-weight: bold;
