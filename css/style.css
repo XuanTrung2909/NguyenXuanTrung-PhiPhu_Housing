@@ -79,13 +79,13 @@ header nav ul li:hover a{
     transition: all 1s;
 }
 .carousel__content .item1{
-    background-image: url(/images/b1.jpg);
+    background-image: url(../images/b1.jpg);
 }
 .carousel__content .item2{
-    background-image: url(/images/b2.jpg);
+    background-image: url(../images/b2.jpg);
 }
 .carousel__content .item3{
-    background-image: url(/images/b3.jpg);
+    background-image: url(../images/b3.jpg);
 }
 .carousel__content .item4{
     background-image: url(/images/b4.jpg);
